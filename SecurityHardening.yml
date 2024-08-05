@@ -1,0 +1,6 @@
+---
+
+- name: Security Hardening
+  hosts: all
+  tasks:
+    - name: 
