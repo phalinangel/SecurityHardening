@@ -6,4 +6,4 @@
     - name: Disable "Windows PowerShell 2.0" on the system
       ansible.windows.win_shell: Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2Root
 
-    - name:   
+    - name:  
